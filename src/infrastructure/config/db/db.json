@@ -1,0 +1,24 @@
+[
+    {
+        "data": {
+            "id_employee": "30b29900-f7b7-11eb-bef0-81026a322abb",
+            "name": "Dercio Sinione",
+            "email": "derciosinione@gmail.com",
+            "phone": 993487235,
+            "district": "Zamba4",
+            "location": "Hoji-ya-henda",
+            "resid_number": 223
+        }
+    },
+    {
+        "data": {
+            "id_employee": "6f27a854-f7cd-11eb-bef0-81026a322abb",
+            "name": "Ant\u00f3nio Campos Gabriel",
+            "email": "antoniocampos@gmail.com",
+            "phone": 993487235,
+            "district": "Zamba4",
+            "location": "Hoji-ya-henda",
+            "resid_number": 223
+        }
+    }
+]

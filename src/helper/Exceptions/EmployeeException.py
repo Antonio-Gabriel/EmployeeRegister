@@ -1,0 +1,3 @@
+
+class EmployeeException(Exception):
+    pass
