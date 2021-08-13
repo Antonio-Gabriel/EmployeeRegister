@@ -3,6 +3,5 @@
 import os
 
 db_context_config_root = {
-    "app_root": os.path.dirname(os.path.abspath(__file__)),
-    "db_storage": "dbContext",
+    "app_root": os.path.dirname(os.path.abspath(__file__))    
 }

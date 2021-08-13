@@ -26,7 +26,7 @@ class Employee:
             "resid_number": self.__residence._.get("resid_number")
         })
 
-        print(response)
+        return response
 
 
     def select(self):

@@ -20,7 +20,7 @@ if __name__ == "__main__":
     )
 
     # print(employee.create())
-    # print(employee.select())
+    print(employee.select())
     # print(employee.delete("ecf0ad9a-f7c2-11eb-bef0-81026a322abb"))
     # employee.update("30b29900-f7b7-11eb-bef0-81026a322abb")
     # print(employee.count())

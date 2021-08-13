@@ -5,8 +5,8 @@ class ResidenceRepository(IResidence):
     
     
     def create_employee(self) -> None:
-        print("Created...")
-    
+        pass
+
 
     def select_employee(self):
         pass
